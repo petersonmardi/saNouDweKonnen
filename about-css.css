@@ -1,0 +1,67 @@
+body {
+    background: url(abstract.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    font-family:  'Playfair Display', serif;
+}
+
+#div-container a {
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+a:hover {
+    background-color: white;
+    color: blue;
+}
+
+#abilite-wrapper {
+    background-color: rgb(19, 16, 14);
+    color: rgb(255, 255, 255);
+    padding: 1em;
+    width: 40em;
+    height: 100%;
+    text-align: center;
+    min-width: auto;
+    min-height: auto;
+    border-top: 0;
+}
+
+#one {
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(252, 191, 191);
+    
+}
+
+#appi-two {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#text-wrapper {
+    color: rgb(250, 255, 187);
+    width: 100%;
+    padding-right: 1em;
+    height: auto;
+    margin: 0;
+    text-align: center;
+
+}
+#span {
+    color: rgb(252, 191, 191);
+}
+
+#line-one, #line-two, #line-three, #line-four {
+    width: 100%;
+    height: auto;
+}

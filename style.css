@@ -1,0 +1,151 @@
+body {
+    background: url(abstract.jpg) rgb(220, 248, 220);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover ;
+    font-size: 1em;
+    font-style: normal;
+    line-height: 1.444;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+#nav-heading a {
+    text-decoration: none;
+    margin: 5px;
+}
+#nav-heading {
+    background-color: rgb(209, 196, 255);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#kredi, #script {
+    color: rgb(255, 0, 0);
+}
+
+.generally {
+    padding: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(205, 225, 255);
+    width: 40em;
+    font-family:  'Playfair Display', serif;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.android-wrapper {
+    width: 200px;
+    height: 200px;
+}
+
+.ios-wrapper {
+    width: 200px;
+    height: 200px;
+}
+
+.android {
+    width: 50%;
+    font-family: monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(235, 210, 210);
+    border-radius: 100%;
+}
+
+.container {
+    width: 100%;
+    height: auto;
+}
+
+
+.first-div {
+    text-align: center;
+    width: 100%;
+    background: url(image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.third-div {
+    width: 100%;
+}
+
+.forth-div {
+    width: 100%;
+
+}
+
+.langaj {
+    width: 100%;
+    font-family: 'Baskervville', serif;
+}
+
+#last-one {
+    width: 100%;
+}
+
+.link {
+    width: 100%;
+    font-family: 'Baskervville', serif;
+    margin: 5px;
+}
+
+.link-wrapper {
+    width: 100%;
+    height: auto;
+}
+
+#pwogramasyon {
+    width: 100%;
+}
+
+#business {
+    font-family: monospace;
+    background: rgb(235, 210, 210);
+    border-radius: inherit;
+}
+
+.footer {
+    color: rgb(0, 0, 0);
+    padding: 0;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+}
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    height: auto;
+}
+
+a:hover {
+    background-color: rgb(182, 182, 182);
+    color: rgb(216, 8, 18);
+    text-decoration: none;
+}
+
+/* About page html */
+
+#div-container a {
+    text-decoration: none;
+    margin: 5px;
+}
+
+#body {
+    background: white;
+}
+
+#jeneralite {
+    margin-left: auto;
+    margin-right: auto;
+}
