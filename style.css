@@ -67,7 +67,7 @@ body {
 .first-div {
     text-align: center;
     width: 100%;
-    background: url(image2.jpg);
+/*     background: url(image2.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
