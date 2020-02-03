@@ -63,7 +63,7 @@ body {
     height: auto;
 }
 
-.container p a {
+.container p a {40em
     text-decoration: none;
 }
 
@@ -138,13 +138,6 @@ body {
     word-spacing: 5px;
 }
 
-footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: 40em;
-    height: auto;
-}
-
 a:hover {
     background-color: rgb(182, 182, 182);
     color: rgb(216, 8, 18);
@@ -158,16 +151,10 @@ a:hover {
     margin: 5px;
 }
 
-#body {
-    background: white;
-}
-
 #jeneralite {
     margin-left: auto;
     margin-right: auto;
 }
-
-.link-wrapper #pwogramsyon a {text-decoration: none;}
 
 .footer a {
     text-decoration: none;
