@@ -153,7 +153,7 @@ a:hover {
 
 /* About page html */
 
-#div-container a {
+.container a {
     text-decoration: none;
     margin: 5px;
 }
