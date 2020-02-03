@@ -63,6 +63,10 @@ body {
     height: auto;
 }
 
+.container a {
+    text-decoration: none;
+}
+
 
 .first-div {
     text-align: center;
@@ -104,6 +108,10 @@ body {
 
 #pwogramasyon {
     width: 100%;
+}
+
+#pwogramasyon a {
+    text-decoration: none;
 }
 
 #business {
