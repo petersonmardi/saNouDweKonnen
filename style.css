@@ -167,3 +167,7 @@ a:hover {
 }
 
 .link-wrapper #pwogramsyon a {text-decoration: none;}
+
+.footer a {
+    text-decoration: none;
+}
