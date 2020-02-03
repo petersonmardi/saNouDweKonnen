@@ -1,15 +1,10 @@
 body {
     background: #006edb;
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: 0;
-    -webkit-background-size: cover;
-    -moz-background-size: cover ;
     font-size: 1em;
     font-style: normal;
     line-height: 1.444;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
+   
 }
 
 #nav-heading a {
