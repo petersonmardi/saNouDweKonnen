@@ -160,4 +160,7 @@ a:hover {
     .generally {
         width: 100%;
     }
+    body {
+    background-color: #ffbb00;
+    }
 }
