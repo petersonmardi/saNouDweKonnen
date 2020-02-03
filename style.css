@@ -171,3 +171,9 @@ a:hover {
 .footer a {
     text-decoration: none;
 }
+
+@media screen and (max-width: 600){
+    body {
+        widht: 100%;
+    }
+}
