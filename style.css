@@ -159,6 +159,7 @@ a:hover {
 @media screen and (max-width: 600){
     .generally {
         width: 100%;
+        height: auto;
     }
     body {
     background-color: #ffbb00;
