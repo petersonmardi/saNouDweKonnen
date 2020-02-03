@@ -63,7 +63,7 @@ body {
     height: auto;
 }
 
-.container a {
+.container p a {
     text-decoration: none;
 }
 
@@ -81,9 +81,17 @@ body {
     width: 100%;
 }
 
+.third-div p a {
+    text-decoration: none;
+}
+
 .forth-div {
     width: 100%;
 
+}
+
+.forth-div p a {
+    text-decoration: none;
 }
 
 .langaj {
